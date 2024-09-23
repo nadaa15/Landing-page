@@ -6,7 +6,7 @@ This is a basic responsive landing page created using HTML5, CSS3, and Media Que
 - **Semantic HTML Structure**: Uses tags like `<header>`, `<nav>`, `<section>`, and `<footer>` for meaningful content organization.
 - **Responsive Design**: The page layout adapts seamlessly to various screen sizes, from desktops to mobile devices.
 - **Cross-Browser Compatibility**: The design has been tested across major browsers including Chrome, Firefox, Safari, and Edge.
-- **Modern CSS Styling**: Leveraging Flexbox/Grid for layout and media queries for responsiveness.
+- **Modern CSS Styling**: Leveraging Flexbox for layout and media queries for responsiveness.
 
 ## Technologies Used
 - **HTML5**: To structure the page.
