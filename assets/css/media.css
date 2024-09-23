@@ -1,0 +1,159 @@
+@media screen and (max-width:1029px)
+{
+    .container{
+    padding-inline: 50px;
+}
+nav{
+    padding: 10px 50px;
+}
+     .menu-bar i{
+       
+        display: block;
+    }
+    
+    .nav-list,.call-us{
+        display: none;
+    }
+    .first-section{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        gap: 30px;
+    }
+    .first-section .right{
+        -webkit-box-ordinal-group: 0;
+            -ms-flex-order: -1;
+                order: -1;
+    }
+    .first-section .left{
+        width: 100%;
+    }
+    .fifth-section{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+}
+
+@media screen and (max-width:900px) {
+ .energy-cards{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+.seventh-section{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    
+}
+.seventh-section .card .customer{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 30px;
+}
+footer .top{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    gap: 32px;
+}
+ footer .bottom{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+ }
+footer .top ul{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+footer .top .left{
+    width: 100%;
+}
+
+}
+@media screen and (max-width:700px) {
+    .third-section .kits-cards{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+    .third-section .kits-cards .card{
+    width: 100%;
+
+}
+.energy-cards{
+    gap: 0;
+}
+}
+
+@media screen and (max-width:600px) {
+   .right img{
+    width: 269px;
+height: 352px;
+}
+.square{
+    width: 170px;
+height: 120px;
+}
+.square img{
+    width: 30px;
+    height:30px;
+    margin-bottom: 10px;
+}
+.square p{
+    font-size: 8px;
+    line-height: 14px;
+}
+
+
+    
+}
+@media screen and (max-width:500px) {
+    .btn{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+footer .top .right form{
+    width: 306px;
+height: 38px;
+}
+    
+}
